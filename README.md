@@ -1,6 +1,6 @@
 # Ruby coding challenge
 
-this project uses github_api to perform events on a gitrepo.
+this project uses octokit/github_api to perform events on a gitrepo.
 
 ## Ruby | Git Setup
 
